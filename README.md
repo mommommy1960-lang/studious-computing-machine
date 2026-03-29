@@ -1,4 +1,4 @@
-# studious-computing-machine
+# Studious-Computing-Machine
 
 TITLE:Navigation-Constrained Approaches to Hypothetical Superluminal Travel
 
